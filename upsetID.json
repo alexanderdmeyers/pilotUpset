@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/alexanderdmeyers/pilotUpset/blob/main/real-upset-data.csv",
+	"file": "https://raw.githubusercontent.com/alexanderdmeyers/pilotUpset/main/real-upset-data.csv",
 	"name": "Pilot",
 	"header": 0,
 	"separator": ",",
